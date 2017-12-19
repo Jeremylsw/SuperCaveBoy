@@ -3,7 +3,7 @@
 ![Project Gif](images/SCB.gif)
 
 ## About
-Created with reference to [Benjamin Anderson's](http://simplefpga.blogspot.sg/2012/07/seven-segment-led-multiplexing-circuit.html) course, with new enemies added for improved difficulty.
+Created with reference to [Benjamin Anderson's](https://www.youtube.com/user/uheartbeast) course, with new enemies added for improved difficulty.
 
 ## Installation Guide
 * Create a folder for the game.
